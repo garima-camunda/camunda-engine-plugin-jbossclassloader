@@ -1,6 +1,6 @@
 # Steps on how to install this plugin in JBoss
 
-
+* Build this project
 * Copy the **camunda-engine-plugin-jbossclassloader-1.0.jar** artifact to **$JBOSS_HOME/modules/org/camunda/bpm/camunda-engine-plugin-jbossclassloader/main**
 * Create a **module.xml** file in the same directory with the following contents:
 ```java
